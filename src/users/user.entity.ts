@@ -5,7 +5,6 @@ import {
   AfterInsert,
   AfterUpdate,
   AfterRemove,
-  Unique,
 } from 'typeorm';
 
 @Entity()
